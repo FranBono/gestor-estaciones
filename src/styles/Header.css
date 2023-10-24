@@ -1,0 +1,13 @@
+.cont-header{
+    grid-column-start:1 ;
+    grid-column-end: 3;
+    margin: 0;
+    padding: .5rem;
+    background-color: blue;
+    width: 100%;
+    
+}
+h1{
+    margin: 0;
+    color: white;
+}
