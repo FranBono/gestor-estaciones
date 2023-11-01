@@ -13,6 +13,7 @@ function Filtro2() {
                     <option value="">option2</option>
                     <option value="">option3</option>
                 </select>
+                <input className="input-ingrese" type="text" placeholder="Ingrese sus datos" />
                 <input className="btn-buscar" type="button" value="Buscar" />
             </form>
         </div>
